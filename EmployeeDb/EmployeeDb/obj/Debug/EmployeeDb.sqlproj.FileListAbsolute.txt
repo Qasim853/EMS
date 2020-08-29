@@ -1,0 +1,10 @@
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\bin\Debug\EmployeeDb.dacpac
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\bin\Debug\EmployeeDb.dll
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\bin\Debug\EmployeeDb.pdb
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\EmployeeDb.sqlprojAssemblyReference.cache
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\Model.xml
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\refactor.xml
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\postdeploy.sql
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\predeploy.sql
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\EmployeeDb.dll
+C:\Users\Haier\source\repos\EmployeeDb\EmployeeDb\obj\Debug\EmployeeDb.pdb
